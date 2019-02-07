@@ -2,7 +2,7 @@
 
 This app is a simple Portfolio app to be used to demonstrate DOM manipulation. 
 
-Why you need this App
+Why you need this App: 
 Do you forget things when you go on vacation? 
 Well, this app is the app for you! 
 
