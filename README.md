@@ -2,11 +2,11 @@
 
 This app is a simple Portfolio app to be used to demonstrate DOM manipulation. 
 
-##Why you need this App
+Why you need this App
 Do you forget things when you go on vacation? 
 Well, this app is the app for you! 
 
-##Please do the following: 
+Please do the following: 
 1. Create an item that needs to be packed. 
 2. Item gets placed on the list 
 3. Select the X once the item is in the suitcase. 
